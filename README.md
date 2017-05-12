@@ -14,4 +14,3 @@ Stuff Here:
  * More stuff coming soon!
 
 ---
-[Clone this repository!](https://github.com/ckjbgames/misc-code.git)
