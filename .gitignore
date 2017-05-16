@@ -1,0 +1,11 @@
+# Object files
+# Executables are not ignored
+# in case someone doesn't
+# know how to use gcc or
+# has no good way to compile
+# programs.
+*.o
+*.so
+# Python Bytecode
+*.pyc
+*.pyo
