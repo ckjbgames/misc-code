@@ -1,7 +1,12 @@
+/*
+ * Usage: truncf filename length
+ * Truncate a file to a certain length.
+ * Dist under the MIT License.
+ * ckjbgames 2017
+ */
 #include<iostream>
 #include<fstream>
 #include<cstring>
-#include<string>
 void err() {
 	std::cerr << "There was an error with file trunctuation.\n" <<
 		"Sorry about that.\n";
