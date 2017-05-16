@@ -16,3 +16,5 @@ Stuff Here:
  * More stuff coming soon!
 
 ---
+If you find a bug in my programs, tell me by starting an issue.  
+If you want to improve or optimize my code, please tell me how I can. Thanks!
