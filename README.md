@@ -11,6 +11,7 @@ Stuff Here:
      * (Note: All of these come with test programs.)
      * `in`: A function to test if a value is in a low-level array.
      * `circle`: A class to represent a circle.
+     * `truncf`: Truncate a file to a certain length.
  * More stuff coming soon!
 
 ---
