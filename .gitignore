@@ -9,3 +9,7 @@
 # Python Bytecode
 *.pyc
 *.pyo
+# Vim swapfiles & temporary files
+*~
+*.swp
+*.swo
