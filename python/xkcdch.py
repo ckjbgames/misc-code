@@ -14,7 +14,7 @@ def xkcdt():
     the wesite's source code.
     """
     page=BeautifulSoup(urllib2.urlopen('https://xkcd.com'),'lxml')
-    return page.title.string[6:]
+    return page.title.string
 if __name__ == '__main__':
     if os.path.exists('./.xkcd'):
         if open('./.xkcd','r').read() == xkcdt():
